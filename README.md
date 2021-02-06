@@ -1,6 +1,6 @@
 # Postal RP
 
-A FiveM lua script that implements commands pertaining to Post Office related RP. This is currently **unfinished**.
+A FiveM lua script that implements commands pertaining to Post Office related RP.
 
 ## Commands (+ Descriptions)
 
